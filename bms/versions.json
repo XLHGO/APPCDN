@@ -1,6 +1,20 @@
 {
+"CHOAA00060":[
+	{"Board":"BCU","Version":"1_3"},
+	{"Board":"BCU","Version":"1_2"}
+],
+"CTXAA00117":[
+	{"Board":"BCU","Version":"1_7"},
+	{"Board":"BCU","Version":"1_5"}
+],
 "TPAAA00101":[
-{"Board":"BCU","Version":"1_2"},
-{"Board":"BCU","Version":"1_0"}
+	{"Board":"BCU","Version":"1_4"},
+	{"Board":"BCU","Version":"1_3"}
+],
+"HHNAA00157":[
+	{"Board":"BCU","Version":"1_2"}
+],
+"HHNAA00162":[
+	{"Board":"BCU","Version":"1_3"}
 ]
 }
